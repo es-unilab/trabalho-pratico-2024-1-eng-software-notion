@@ -6,7 +6,7 @@
 2. Como um usuário, eu gostaria de fazer login na minha conta.
 3. Como um usuário, eu gostaria de criar novas anotações.
 4. Como um usuário, eu gostaria de editar o conteúdo das minhas anotações.
-5. Como um usuário, eu gostaria de remover uma tarefa.
+5. Como um usuário, eu gostaria de remover uma anotação.
 6. Como um usuário, eu gostaria de incluir listas de tarefas dentro das minhas anotações.
 7. Como um usuário, eu gostaria de definir uma data de vencimento para as minhas tarefas.
 8. Como um usuário, eu gostaria de receber notificações quando uma tarefa estiver próxima do prazo de vencimento.
