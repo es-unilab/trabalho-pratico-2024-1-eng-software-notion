@@ -44,6 +44,7 @@
   1. O usuário digita o título e o conteúdo da anotação no campo de texto;
   2. O usuário seleciona uma tag ou cria uma nova para a anotação;
   3. O usuário cria uma lista de tarefas, se desejar;
+
      3a. Inclusão de Lista de Tarefas
        1. O usuário adiciona uma lista de tarefas ao conteúdo da anotação;
        2. O usuário insere itens na lista de tarefas;
