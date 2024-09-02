@@ -36,7 +36,7 @@
 
 **Fluxo Principal:**
 1. O usuário faz login no sistema;
-2. O usuário seleciona o tipo de gerenciamento que deseja realizar coms as anotações.
+2. O usuário seleciona o tipo de gerenciamento que deseja realizar com as anotações.
 
 **Extensões:**
 
