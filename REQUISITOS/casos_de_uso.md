@@ -1,6 +1,22 @@
 # SISTEMA GENOTE
 
 ## CASOS DE USO
+
+*1. Cadastro de Usuário*
+
+*Ator Principal:* Usuário
+
+*Fluxo Principal:*
+1. O usuário acessa a página de cadastro no sistema;
+2. O usuário preenche os campos obrigatórios no formulário de cadastro (nome, e-mail, senha);
+3. O usuário clica no botão de "Cadastrar";
+4. O sistema valida os dados e cria a conta.
+
+*Extensões:*
+
+4a. Se o e-mail já estiver em uso, o sistema exibe uma mensagem de erro e solicita um e-mail diferente.
+
+
 *4. Inclusão de Categorias*
 
 *Ator Principal:* Usuário
