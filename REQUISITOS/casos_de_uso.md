@@ -3,6 +3,7 @@
 ## CASOS DE USO
 
 *5.Pesquisa de anotações*
+
 *Ator Principal:* Usuário
 
 *Fluxo Principal:*
@@ -14,5 +15,6 @@
 6. O usuário seleciona e visualiza as anotações desejadas.
 
 *Extensões:*
+
 5a. Se a pesquisa não retornar resultados, o sistema exibe uma mensagem informando que nenhuma anotação foi encontrada.
 
