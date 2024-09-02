@@ -51,23 +51,24 @@
        3. O usuário pode marcar itens como concluídos;
        4. O usuário salva a anotação com a lista de tarefas incluída;
        5. O sistema armazena a lista de tarefas junto com a anotação e confirma para o usuário.
-  5. O usuário clica no botão “Criar Anotação” para salvar o conteúdo inserido;
-
-     4a. Escolher não salvar uma nota
-       1. O sistema pergunta ao usuário se deseja descartar as alterações.
+          
+  4. O usuário clica no botão “Criar Anotação” para salvar o conteúdo inserido;
+     4a. Se o usuário escolher não criar a anotação
+       1. O sistema pergunta ao usuário se deseja descartar as alterações;
        2. O usuário confirma, e o sistema descarta a nota ou as alterações feitas.
-  7. O sistema armazena a anotação e confirma para o usuário.
+  5. O sistema armazena a anotação e confirma para o usuário.
 
 2b. Edição de anotações
   1. O usuário acessa a lista de anotações e seleciona a anotação que deseja editar;
   2. O usuário faz as alterações desejadas no título e/ou conteúdo;
   3. O usuário atualiza listas de tarefas e tags, se desejar;
-  4. O usuário clica no botão "Salvar" para atualizar a anotação;
      
-     3b. Escolher não salvar
-       1. O sistema pergunta ao usuário se deseja descartar as alterações.
+     3a. Se o usuário escolher não salvar
+       1. O sistema pergunta ao usuário se deseja descartar as alterações;
        2. O usuário confirma, e o sistema descarta a nota ou as alterações feitas.
-  5. O sistema armazena a alteração e confirma para o usuário.
+    
+  5. O usuário clica no botão "Salvar" para atualizar a anotação;   
+  6. O sistema armazena a alteração e confirma para o usuário.
 
 
 ### 4. Inclusão de Categorias
