@@ -4,7 +4,7 @@
 
 **1. Cadastro de Usuário**
 
-**Ator Principal:´** Usuário
+**Ator Principal:** Usuário
 
 **Fluxo Principal:**
 1. O usuário acessa a página de cadastro no sistema;
@@ -17,6 +17,7 @@
 4a. Se o e-mail já estiver em uso, o sistema exibe uma mensagem de erro e solicita um e-mail diferente.
 
 **2. Login de Usuário**
+
 **Ator Principal:** Usuário
 
 **Fluxo Principal:**
