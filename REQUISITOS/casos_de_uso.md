@@ -16,7 +16,7 @@
 
 4a. Se o e-mail já estiver em uso, o sistema exibe uma mensagem de erro e solicita um e-mail diferente.  
 
-**2. Login de Usuário**
+### 2. Login de Usuário
 
 **Ator Principal:** Usuário
 
@@ -31,7 +31,7 @@
 3a. Se os dados estiverem incorretos, o sistema exibe uma mensagem de erro.
 
 
-**3. Gerenciamento de Anotações**
+### 3. Gerenciamento de Anotações
 **Ator Principal:** Usuário
 
 **Fluxo Principal:**
@@ -61,7 +61,7 @@
   5. O sistema armazena a alteração e confirma para o usuário.
 
 
-**4. Inclusão de Categorias**
+### 4. Inclusão de Categorias
 
 **Ator Principal:** Usuário
 
@@ -78,7 +78,7 @@
 4a. Se o usuário tentar criar uma categoria que já exista, o sistema exibe uma mensagem de erro informando que a categoria já existe e solicita que o usuário escolha um nome diferente.
 
 
-**5.Pesquisa de anotações**
+### 5.Pesquisa de anotações
 
 **Ator Principal:** Usuário
 
