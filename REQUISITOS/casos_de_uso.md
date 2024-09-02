@@ -52,6 +52,9 @@
        4. O usuário salva a anotação com a lista de tarefas incluída;
        5. O sistema armazena a lista de tarefas junto com a anotação e confirma para o usuário.
   5. O usuário clica no botão “Criar Anotação” para salvar o conteúdo inserido;
+     4a. Escolher não salvar uma nota
+       1. O sistema pergunta ao usuário se deseja descartar as alterações.
+       2. O usuário confirma, e o sistema descarta a nota ou as alterações feitas.
   6. O sistema armazena a anotação e confirma para o usuário.
 
 2b. Edição de anotações
