@@ -58,7 +58,7 @@
        1. O sistema pergunta ao usuário se deseja descartar as alterações;
        2. O usuário confirma, e o sistema descarta a nota ou as alterações feitas.
           
-  6. O sistema armazena a anotação e confirma para o usuário.
+  5. O sistema armazena a anotação e confirma para o usuário.
 
 2b. Edição de anotações
   1. O usuário acessa a lista de anotações e seleciona a anotação que deseja editar;
