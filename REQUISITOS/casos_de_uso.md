@@ -78,7 +78,7 @@
 4a. Se o usuário tentar criar uma categoria que já exista, o sistema exibe uma mensagem de erro informando que a categoria já existe e solicita que o usuário escolha um nome diferente.
 
 
-### 5.Pesquisa de anotações
+### 5. Pesquisa de Anotações
 
 **Ator Principal:** Usuário
 
