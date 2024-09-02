@@ -16,7 +16,6 @@
 
 4a. Se o e-mail já estiver em uso, o sistema exibe uma mensagem de erro e solicita um e-mail diferente.  
 
-
 **2. Login de Usuário**
 
 **Ator Principal:** Usuário
@@ -74,7 +73,8 @@
 5. O usuário salva as alterações;
 6. O sistema armazena a(s) categoria(s) criada(s) e confirma para o usuário.
 
-*Extensões:*
+**Extensões:**
+
 4a. Se o usuário tentar criar uma categoria que já exista, o sistema exibe uma mensagem de erro informando que a categoria já existe e solicita que o usuário escolha um nome diferente.
 
 
