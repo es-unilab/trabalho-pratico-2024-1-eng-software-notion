@@ -16,7 +16,6 @@
 
 4a. Se o e-mail já estiver em uso, o sistema exibe uma mensagem de erro e solicita um e-mail diferente.
 
-
 **2. Login de Usuário**
 **Ator Principal:** Usuário
 
