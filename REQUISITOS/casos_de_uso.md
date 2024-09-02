@@ -59,3 +59,30 @@
 
 5a. Se a pesquisa não retornar resultados, o sistema exibe uma mensagem informando que nenhuma anotação foi encontrada.
 
+3. Gerenciamento de Anotações*
+*Ator Principal:* Usuário
+
+*Fluxo Principal:*
+1. O usuário faz login no sistema;
+2. O usuário seleciona o tipo de gerenciamento que deseja realizar coms as anotações.
+
+*Extensões:*
+2a. Criação de novas anotações
+  1. O usuário digita o título e o conteúdo da anotação no campo de texto;
+  2. O usuário seleciona uma tag ou cria uma nova para a anotação;
+  3. O usuário cria uma lista de tarefas, se desejar;
+     3a. Inclusão de Lista de Tarefas
+       1. O usuário adiciona uma lista de tarefas ao conteúdo da anotação;
+       2. O usuário insere itens na lista de tarefas;
+       3. O usuário pode marcar itens como concluídos;
+       4. O usuário salva a anotação com a lista de tarefas incluída;
+       5. O sistema armazena a lista de tarefas junto com a anotação e confirma para o usuário.
+  5. O usuário clica no botão “Criar Anotação” para salvar o conteúdo inserido;
+  6. O sistema armazena a anotação e confirma para o usuário.
+
+2b. Edição de anotações
+  1. O usuário acessa a lista de anotações e seleciona a anotação que deseja editar;
+  2. O usuário faz as alterações desejadas no título e/ou conteúdo;
+  3. O usuário atualiza listas de tarefas e tags, se desejar;
+  4. O usuário clica no botão "Salvar" para atualizar a anotação;
+  5. O sistema armazena a alteração e confirma para o usuário.
