@@ -16,4 +16,4 @@
 12. Como um líder de equipe, eu gostaria de adicionar membros a grupos.
 13. Como um líder de equipe, eu gostaria de atribuir tarefas aos membros da equipe.
 14. Como um líder de equipe, eu gostaria de acompanhar o status das tarefas atribuídas.
-15. Como um membro de um time, eu gostaria de receber notificações sobre novas tarefas atribuídas a mim.
+15. Como um membro de uma equipe, eu gostaria de receber notificações sobre novas tarefas atribuídas a mim.
