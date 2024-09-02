@@ -27,6 +27,7 @@
 4. O sistema valida os dados e entra na conta.
 
 **Extensões:**
+
 3a. Se os dados estiverem incorretos, o sistema exibe uma mensagem de erro.
 
 
@@ -38,6 +39,7 @@
 2. O usuário seleciona o tipo de gerenciamento que deseja realizar coms as anotações.
 
 **Extensões:**
+
 2a. Criação de novas anotações
   1. O usuário digita o título e o conteúdo da anotação no campo de texto;
   2. O usuário seleciona uma tag ou cria uma nova para a anotação;
@@ -60,9 +62,10 @@
 
 
 **4. Inclusão de Categorias**
-*Ator Principal:* Usuário
 
-*Fluxo Principal:*
+**Ator Principal:** Usuário
+
+**Fluxo Principal:**
 1. O usuário faz login no sistema;
 2. O usuário acessa a interface de criação ou edição de uma anotação;
 3. O usuário clica em adicionar categoria e acessa a interface de inclusão de categorias;
