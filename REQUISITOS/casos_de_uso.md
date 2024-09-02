@@ -2,7 +2,7 @@
 
 ## CASOS DE USO
 
-**1. Cadastro de Usuário**
+### 1. Cadastro de Usuário
 
 **Ator Principal:** Usuário
 
