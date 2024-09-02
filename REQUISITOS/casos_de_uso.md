@@ -17,22 +17,6 @@
 4a. Se o e-mail já estiver em uso, o sistema exibe uma mensagem de erro e solicita um e-mail diferente.
 
 
-*4. Inclusão de Categorias*
-
-*Ator Principal:* Usuário
-
-*Fluxo Principal:*
-1. O usuário faz login no sistema;
-2. O usuário acessa a interface de criação ou edição de uma anotação;
-3. O usuário clica em adicionar categoria e acessa a interface de inclusão de categorias;
-4. O usuário cria nova(s) categoria(s);
-5. O usuário salva as alterações;
-6. O sistema armazena a(s) categoria(s) criada(s) e confirma para o usuário.
-
-*Extensões:*
-
-4a. Se o usuário tentar criar uma categoria que já exista, o sistema exibe uma mensagem de erro informando que a categoria já existe e solicita que o usuário escolha um nome diferente.
-
 
 
 *5.Pesquisa de anotações*
