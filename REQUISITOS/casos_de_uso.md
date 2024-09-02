@@ -28,7 +28,7 @@
 
 **Extensões:**
 
-3a. Se os dados estiverem incorretos, o sistema exibe uma mensagem de erro.
+3a. Se os dados estiverem incorretos, o sistema exibe uma mensagem de erro e solicita ao usuário que verifique as informações e tente novamente.
 
 
 ### 3. Gerenciamento de Anotações
@@ -64,13 +64,13 @@
   1. O usuário acessa a lista de anotações e seleciona a anotação que deseja editar;
   2. O usuário faz as alterações desejadas no título e/ou conteúdo;
   3. O usuário atualiza listas de tarefas e tags, se desejar;
-     
-     3a. Se o usuário escolher não salvar
+  4. O usuário clica no botão "Salvar" para atualizar a anotação;
+
+     4a. Se o usuário escolher não salvar
        1. O sistema pergunta ao usuário se deseja descartar as alterações;
        2. O usuário confirma, e o sistema descarta a nota ou as alterações feitas.
-    
-  5. O usuário clica no botão "Salvar" para atualizar a anotação;   
-  6. O sistema armazena a alteração e confirma para o usuário.
+          
+  5. O sistema armazena a alteração e confirma para o usuário.
 
 
 ### 4. Inclusão de Categorias
